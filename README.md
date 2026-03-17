@@ -1,1 +1,2 @@
 # odin-recipes
+In this project i will be making a basic HTML coded website, where i will need to demonstrate the knowledge from the lessons i have learnt so far in the Odin Project. This project will help me understand the basics of git, the terminal and html coding.
